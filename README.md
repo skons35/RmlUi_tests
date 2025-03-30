@@ -35,10 +35,14 @@ The RmlUi library should be  installed ( in /usr/local/lib for instance )
 like the 4.3 version recommended for BitRiot project.
 
 
-git clone this repo somewhere then in shell go go in this cloned project
+git clone this repo somewhere, then in shell go in this cloned project :
+
 mkdir build
+
 cd build
+
 cmake .. -DCMAKE_BUILD_TYPE=Release -DCMAKE_CXX_COMPILER=ppc-morphos-g++-11 -DCMAKE_C_COMPILER=ppc-morphos-gcc-11
+
 (a bin/rmluiTester executable s created after a succesful compilation)
 
 cd /
