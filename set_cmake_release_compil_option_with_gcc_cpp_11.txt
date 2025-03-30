@@ -1,0 +1,1 @@
+cmake .. -DCMAKE_BUILD_TYPE=Release -DCMAKE_CXX_COMPILER=ppc-morphos-g++-11 -DCMAKE_C_COMPILER=ppc-morphos-gcc-11

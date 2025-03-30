@@ -1,0 +1,13 @@
+<rml>
+	<head>
+		/*<link type="text/css" href="windows.rcss"/>*/
+		<title>test</title>
+	</head>
+	<body>
+	<!-- 
+	<img src="skons_rd_256x512_RGB_24bpp.bmp" />
+	-->
+	 	<h1> test area </h1>
+		<p>Hello <span id="world">world</span>!</p>
+	</body>
+</rml>

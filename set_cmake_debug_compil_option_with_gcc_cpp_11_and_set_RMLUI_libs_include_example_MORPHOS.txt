@@ -1,0 +1,1 @@
+cmake .. -DCMAKE_BUILD_TYPE=Release -DCMAKE_CXX_COMPILER=ppc-morphos-g++-11 -DCMAKE_C_COMPILER=ppc-morphos-gcc-11 -DRMLUI_INCLUDE=/Work/VA_devs/skons35_projects/BitRiot/ext/RmlUi/RmlUi/Include -DRMLUI_CORE=/Work/VA_devs/skons35_projects/BitRiot/ext/RmlUi/lib/libRmlCore.a -DRMLUI_DEBUGGER=/Work/VA_devs/skons35_projects/BitRiot/ext/RmlUi/lib/libRmlDebugger.a

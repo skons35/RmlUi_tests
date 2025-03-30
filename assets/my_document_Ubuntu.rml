@@ -1,0 +1,12 @@
+<rml>
+	<head>		
+		<title>test</title>
+		<link type="text/css" href="windows_Ubuntu.rcss"/>
+	</head>
+	<body>
+	 	<h1>test area</h1>		
+		<img src="ananas_skons_nonoise.png" width="120" height="160"/>		
+		<p>Hello <span id="world">world</span>!</p>
+		<!-- comment -->
+	</body>
+</rml>

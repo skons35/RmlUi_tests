@@ -1,0 +1,30 @@
+body {
+	font-family: MonospaceTypewriter;
+	color: blue;
+	background: rgb(0%, 50% , 0%);
+	font-size: 36px;
+	text-align: center;
+	padding: 2em 1em;
+	position: absolute;
+	border: 5px #00ddee;
+	width: 240px;
+	height: 220px;
+	margin: auto;
+}
+		
+h1 {
+	 font-family: OneSlot;
+	 color: orange;
+	 font-size: 24px;
+	 display: block;
+	 margin-bottom: 0.7em;
+}
+		
+p { 
+	font-family: MonospaceTypewriter;
+	color: white;
+	font-size: 16px;
+	display: block;
+	margin: 0.7em 0;
+}
+	

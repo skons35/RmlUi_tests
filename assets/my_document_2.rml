@@ -1,0 +1,10 @@
+<rml>
+	<head>
+		<title style="font-family: Arial; color: cyan; font-size: 32px;">test</title>
+		<link type="text/rcss" href="windows.rcss"/>
+	</head>
+	<body>
+	 	<h1> test area </h1>
+		<p style="font-family: Arial; color: red; font-size: 24px">Hello <span id="world">world</span>!</p>
+	</body>
+</rml>

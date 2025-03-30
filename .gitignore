@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# ignoring release build folder content :
+build/*
+
+# Morphos specific : ignoring icons
+*.info

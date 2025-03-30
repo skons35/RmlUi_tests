@@ -1,0 +1,10 @@
+<rml>
+	<head>
+		<title>test</title>
+		<link type="text/rcss" href="windows.rcss"/>		
+	</head>	
+	<body>
+	 	<h1> test area </h1>
+		<p>Hello <span id="world">world</span>!</p>
+	</body>
+</rml>
